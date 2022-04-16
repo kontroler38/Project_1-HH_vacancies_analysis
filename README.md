@@ -1,4 +1,4 @@
-# Проект 0. Анализ вакансий из HeadHunter
+# Проект 1. Анализ вакансий из HeadHunter
 
 ## Оглавление
 [1. Описание проекта](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Описание-проекта)
