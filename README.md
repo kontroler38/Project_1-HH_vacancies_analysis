@@ -1,15 +1,15 @@
 # Проект 0. Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Результат)
+[5. Результат](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Результат)
 
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. В ходе выполнения проекта необходимо преобразовать, исследовать и очистить данные для построения модели. Для этого необходимо:
@@ -18,7 +18,7 @@
 - провести разведывательный анализ - первичный анализ зависимостей в данных
 - провести очистку данных.
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -30,7 +30,7 @@
 Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбук, и контрольных вопросов на платформе. Задания выполняются последовательно.
 Помимо проверки заданий на платформе, необходимо отправить свой код ментору для code-ревью.
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 **Метрика качества**
 Для успешного выполнения проекта необходимо набрать 21 балл из 40 возможных.
@@ -45,18 +45,18 @@
 - Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 **Что практикуем**
 Учимся анализу, визуализации и очистке данных
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 **Краткая информация о данных**
 База резюме, выгруженная с сайта поиска вакансий hh.ru в виде csv: (https://drive.google.com/file/d/1aacY3qjpwV8LbWz6YTwWzgvJDp2KAMyu/view?usp=sharing)
 Кроме этого, имеются данные о курсах различных валют и акций за указанные периоды в виде csv: (https://drive.google.com/file/d/1mm6QNbVMfsvmKQVPQtHRBmF83NOWHsdi/view?usp=sharing)
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 - Внимательно изучить детали задачи.
@@ -68,9 +68,9 @@
 - Сдать проект на проверку и получить 10 баллов (из них 8 баллов — за основное задание и 2 балла — за дополнительное) за выводы по разведывательному анализу.
 - Получить обратную связь от команды курса.
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 ### Результат
 Jupyter Notebook с выполненными заданиями и выводами()
 
-:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/edit/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
