@@ -71,6 +71,6 @@
 :arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
 
 ### Результат
-Jupyter Notebook с выполненными заданиями и выводами()
+Jupyter Notebook с выполненными заданиями и выводами(https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/Ноутбук-шаблон%20Project%201.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/kontroler38/Project_1-HH_vacancies_analysis/blob/main/README.md#Оглавление)
